@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emirkerem&label=Profile%20views&color=0e75b6&style=flat" alt="emirkerem" /> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🔭 I’m currently working on **Java, Python and R**
+
+- 🌱 I’m currently learning **Data Science and AI**
 
 - 📫 How to reach me **emirkeremsldr@gmail.com**
 
